@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dark Mode
+title: GitHub Get Back My Nigga Account
 tags: [Katex, Mermaid, Markdown]
 categories: Demo
 ---
